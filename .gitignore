@@ -2,5 +2,6 @@
 .ipynb_checkpoints
 .DS_Store
 data/
+notebooks/
 **/__pycache__/
 .env
